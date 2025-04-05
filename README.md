@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves building an ETL (Extract, Transform, Load) pipeline that collects data from various sources, processes it, and stores it into a database for further analysis. The project is structured to allow easy integration with various data sources, including CSV files, JSON APIs, Google Sheets, and a SQL database. The data is cleaned, transformed, and then loaded into a database (PostgreSQL or MySQL) for further analysis.
+This project involves building an ETL (Extract, Transform, Load) pipeline that collects data from various sources, processes it, and stores it into a database for further analysis. The project is structured to allow easy integration with various data sources, including CSV files, JSON APIs, Google Sheets, and NoSQL database. The data is cleaned, transformed, and then loaded into a database (MongoDB) for further analysis.
 
 ### Directory Structure
 
