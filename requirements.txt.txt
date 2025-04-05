@@ -1,0 +1,7 @@
+pandas
+requests
+json
+gspread
+pymongo
+psycopg2
+datetime
