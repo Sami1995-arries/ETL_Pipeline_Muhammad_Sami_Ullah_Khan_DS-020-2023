@@ -31,8 +31,7 @@ The pipeline can standardize units.
 All datetime values are normalized to the ISO 8601 format to ensure consistency across datasets.
 
 ### 4. Feature Engineering
-New calculated columns are created based on existing data, such as calculating a "weather impact score" from temperature, humidity, and wind speed.
-
+New calculated columns are created based on existing data.
 ## Automation
 
 ### Scheduling with Python
