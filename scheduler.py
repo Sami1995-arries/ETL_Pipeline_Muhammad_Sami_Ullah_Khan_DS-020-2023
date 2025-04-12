@@ -1,13 +1,4 @@
-
----
-
-### 2. **Python Scheduler (`scheduler.py`)**
-
-This script automates the ETL process by scheduling it to run at specified intervals using the Python `schedule` library.
-
-#### `scheduler.py`
-
-```python
+!pip install schedule
 import schedule
 import time
 import subprocess
